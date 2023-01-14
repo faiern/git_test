@@ -1,0 +1,16 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.header{
+    background-color: red;
+    height: 50px;
+    width: 100%;
+}
+
+.side{
+    background-color:  blue;
+    border:0cm solid green;
+}
